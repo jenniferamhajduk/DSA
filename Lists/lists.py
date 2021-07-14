@@ -21,6 +21,7 @@ for i in range(len(shopingList)):
 
 myList = [1,2,3,4,5,6,7]
 myListTwo = [8,9,10,11,12]
+
 #print(myList)
 #myList[2] = 33
 #print(myList)
