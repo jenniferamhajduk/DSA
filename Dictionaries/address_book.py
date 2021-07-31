@@ -13,4 +13,3 @@ print(searchDict(myDict, 32))
 
 myDict.pop('name')
 print(myDict)
-
